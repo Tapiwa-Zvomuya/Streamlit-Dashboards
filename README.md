@@ -46,7 +46,7 @@ http://localhost:8501
 
 ```
 .
-├── app.py                  # Main Streamlit application
+├── Modules                 # Python scripts
 ├── requirements.txt        # Project dependencies
 ├── data/                   # (Optional) data files
 └── README.md               # Project documentation
